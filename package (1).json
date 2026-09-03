@@ -1,0 +1,12 @@
+{
+  "name": "weight-goal-miniapp",
+  "version": "1.0.0",
+  "private": true,
+  "main": "app.js",
+  "scripts": { "start": "node app.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
